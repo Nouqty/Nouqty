@@ -1,16 +1,17 @@
-## Hi there 👋
+Hello, I'm a developer focused on process automation and developing useful tools.
 
-<!--
-**Nouqty/Nouqty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently work with Python, creating time-saving solutions for repetitive tasks such as data cleaning, automation, and bots.
 
-Here are some ideas to get you started:
+Main projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Excel data cleaning application
+* Multifunctional Discord bot
+
+Technologies:
+
+* Python
+* Pandas
+* Tkinter
+* SQL
+
+I'm available for freelance work and developing custom solutions.
